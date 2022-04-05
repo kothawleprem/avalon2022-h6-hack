@@ -6,9 +6,11 @@ Shoot the incoming elements towards your spaceship while leading the leaderboard
 ![First](./Client/img1.PNG)
 ![Second](./Client/img2.PNG)
 
-HTML (canvas) , CSS , JAVASCRIPT, Django Rest Framework
+Tech Stack: HTML (canvas) , CSS , JAVASCRIPT, Django Rest Framework
 
-Prem Kothawle and Shubham Saroj
+Team Members: Prem Kothawle and Shubham Saroj
+
+Credits: https://www.kindpng.com/
 
 
 
