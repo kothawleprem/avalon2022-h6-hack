@@ -1,12 +1,10 @@
 # 👾 H6 Hackathon 👾
 
-Submit your projects here!
-
-## Project Requirements
 
 Shoot the incoming elements towards your spaceship while leading the leaderboard. 
 
-![First](./Client/bulet.png)
+![First](./Client/img1.png)
+![Second](./Client/img2.PNG)
 
 HTML (canvas) , CSS , JAVASCRIPT, Django Rest Framework
 
