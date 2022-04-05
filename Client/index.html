@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://fonts.cdnfonts.com/css/games" rel="stylesheet">
+    <title>Game....</title>
+</head> 
+<style>
+    body {
+        margin: 0;
+    }
+    .score{
+        font-family:'Games', sans-serif;
+        color: white;
+        font-size: 40px;
+    }
+    .roomName{
+        font-family:'Games', sans-serif;
+        color: white;
+        font-size: 40px;
+    }
+</style>
+<body style="background-color: black;">
+    <center>
+    <div style="padding-top: 10px;" >
+        <div id="startSoloArea">
+            <button id="startSolo">Start Solo Game</button>
+        </div>
+        <div id="createRoomArea">
+            <button id="createRoom">Challenge Others</button>
+        </div>
+        <div id="playerNameArea"></div>
+        <div id="roomNameArea"></div>
+        <div id="joinRoomArea">
+            <input type="number" name="" id="txtJoin">
+            <button id="joinRoom">Join</button>
+        </div>
+    </center>
+        
+    </div>
+    <span class="score">Score: </span> 
+    <span id="score" class="score">0</span>
+    <div >
+
+    <div id="displayRoomNameArea"></div>
+       
+    <canvas style="visibility:hidden" id="canvas"></canvas>
+
+    <script src="./index.js"></script>
+    <script>
+    </script>
+</body>
+</html>
